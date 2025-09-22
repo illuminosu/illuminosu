@@ -8,8 +8,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illuminosu&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=illuminosu&theme=radical)
-
 ![Lofi Coding 2](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-![Visitor Count](https://profile-counter.glitch.me/illuminosu/count.svg)
+![Lofi Aesthetic](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+![Coding Vibes](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
