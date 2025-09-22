@@ -12,4 +12,4 @@
 
 ![Lofi Aesthetic](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-![Coding Vibes](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Coding Vibes](https://cdnb.artstation.com/p/assets/images/images/043/163/227/original/augustin-cart-gif-lofi-final.gif?1636484521)
