@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Eclipse
 
-![Lofi Girl Christmas](https://media.giphy.com/media/JGMaGy5beukJ96I5Xw/giphy.gif)
+![Lofi Girl Christmas](https://i.giphy.com/JGMaGy5beukJ96I5Xw.gif)
 
 ---
 
