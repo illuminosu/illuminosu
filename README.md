@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Eclipse
-![Lofi Coding](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Vaporwave Aesthetic](https://media.giphy.com/media/dsd7XbYg0e6hG0A7i8/giphy.gif)
 
 ---
 
@@ -8,8 +8,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illuminosu&layout=compact&theme=radical)
 
-![Lofi Coding 2](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Lofi Girl Christmas](https://media.giphy.com/media/JGMaGy5beukJ96I5Xw/giphy.gif)
 
-![Lofi Aesthetic](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Chill Vibes](https://media.giphy.com/media/CW16nFVXLSQxSMUEMd/giphy.gif)
 
-![Coding Vibes](https://cdnb.artstation.com/p/assets/images/images/043/163/227/original/augustin-cart-gif-lofi-final.gif?1636484521)
+![Study Aesthetic](https://media.giphy.com/media/J6UJjUEg1ReqjMIAlQ/giphy.gif)
+
+![Rain Mood](https://media.giphy.com/media/fVUnEVLKi2CWqF2yxF/giphy.gif)
